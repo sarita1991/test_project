@@ -22,9 +22,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.example.boot_jpa.controller.FileStorageService;
 import com.example.boot_jpa.model.UploadFileResponse;
-
+import com.example.boot_jpa.services.FileStorageService;
 
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpHeaders;

@@ -1,4 +1,4 @@
-package com.example.boot_jpa.controller;
+package com.example.boot_jpa.services;
 
 
 
